@@ -40,9 +40,9 @@ El objetivo principal es **demostrar los fundamentos de la robótica aplicada**:
 | --------------------------------------------------------- | -------------------------------------------------------- |
 | ![Robot VEX vista superior](./IMG_20190815_143414968.jpg) | ![Robot VEX vista lateral](./IMG_20190815_143421194.jpg) |
 
-| Detalle del brazo robótico                          | Ensamble general                                                       |
+| Detalle del brazo robótico                          | Terminado                                                     |
 | --------------------------------------------------- | ---------------------------------------------------------------------- |
-| ![Brazo robótico VEX](./IMG_20190815_143414020.jpg) | ![Vista general del robot](./41b93e18-59f2-4b36-9bc5-d029f9b92874.jpg) |
+| ![Brazo robótico VEX](./IMG_20190815_143414020.jpg) | ![Vista general del robot](./presentacion.JPG) |
 
 > 🔧 *Las imágenes muestran el montaje estructural con cadenas, engranajes y motores en configuración paralela, además de la garra robótica en el extremo frontal del brazo.*
 
