@@ -61,9 +61,6 @@ El objetivo principal es **demostrar los fundamentos de la robótica aplicada**:
 
 
 
-> 🔧 *Las imágenes muestran el montaje estructural con cadenas, engranajes y motores en configuración paralela, además de la garra robótica en el extremo frontal del brazo.*
-
----
 
 ## 💻 Código Fuente
 
@@ -145,7 +142,7 @@ Kd = 4.0
 ## 🧑‍🔬 Créditos y Licencia
 
 **Autor:** *Proyecto de Robótica – VEX EDR Experimental*
-**Versión:** 1.0 — Noviembre 2025
+**Versión:** 1.0 — Noviembre 2019
 **Licencia:** MIT License
 
 > Este proyecto es de uso **educativo y demostrativo**. Diseñado para enseñar conceptos de control, mecánica y electrónica de forma segura y responsable.
@@ -161,6 +158,6 @@ Kd = 4.0
 
 ## 🖼️ Vista Final del Sistema
 
-![Vista final del robot armado](./IMG_20190815_143414968.jpg)
+![Vista final del robot armado](./Presentacion.JPG)
 
 > 📷 *Brazo robótico VEX ensamblado y calibrado para pruebas de control PID y operación remota.*
