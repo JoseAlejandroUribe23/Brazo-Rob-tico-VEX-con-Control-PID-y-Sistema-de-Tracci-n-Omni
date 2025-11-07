@@ -158,6 +158,6 @@ Kd = 4.0
 
 ## 🖼️ Vista Final del Sistema
 
-![Vista final del robot armado](./Presentacion.JPG)
+![Vista final del robot armado](./presentacion.JPG)
 
 > 📷 *Brazo robótico VEX ensamblado y calibrado para pruebas de control PID y operación remota.*
