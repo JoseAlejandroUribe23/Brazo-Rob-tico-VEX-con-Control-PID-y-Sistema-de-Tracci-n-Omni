@@ -161,3 +161,8 @@ Kd = 4.0
 ![Vista final del robot armado](./presentacion.JPG)
 
 > 📷 *Brazo robótico VEX ensamblado y calibrado para pruebas de control PID y operación remota.*
+
+
+## Contacto
+
+Para cualquier consulta o sugerencia, puedes contactarme en [josealejandrouribesilva@gmail.com](joseauribe@uts.edu.co)
